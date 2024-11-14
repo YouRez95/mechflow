@@ -27,3 +27,21 @@ For more information or to inquire about pricing and licenses, please contact us
 **Email**: [younesselalouani1995@gmail.com]
 
 **Note**: A trial version may be available, and registration is required to unlock the application.
+
+## Pictures
+
+<img width="1920" alt="Screen Shot 2024-11-14 at 12 33 49 PM" src="https://github.com/user-attachments/assets/33671b12-132e-4c4a-8f55-a22721914a0d">
+<img width="1920" alt="Screen Shot 2024-11-14 at 12 32 15 PM" src="https://github.com/user-attachments/assets/bdf7871f-f833-49af-b973-01be5696fa1e">
+<img width="1920" alt="Screen Shot 2024-11-14 at 12 32 26 PM" src="https://github.com/user-attachments/assets/81e9e073-d738-40ab-90e5-692b7e439d04">
+<img width="1920" alt="Screen Shot 2024-11-14 at 12 32 45 PM" src="https://github.com/user-attachments/assets/8e612a7a-d656-4f94-abed-2af285fd0241">
+<img width="1920" alt="Screen Shot 2024-11-14 at 12 32 58 PM" src="https://github.com/user-attachments/assets/afcb39d4-c1b8-45f4-82bb-9d6e13088914">
+<img width="1920" alt="Screen Shot 2024-11-14 at 12 33 14 PM" src="https://github.com/user-attachments/assets/69c9c719-44bf-49b1-8ae8-8e84cd573c49">
+<img width="1920" alt="Screen Shot 2024-11-14 at 12 33 22 PM" src="https://github.com/user-attachments/assets/405e0684-bcfc-4d0d-abb8-32d49c77711e">
+<img width="1920" alt="Screen Shot 2024-11-14 at 12 33 35 PM" src="https://github.com/user-attachments/assets/49ebb026-b925-4d9b-9f48-8574e014500a">
+
+
+
+
+
+
+
